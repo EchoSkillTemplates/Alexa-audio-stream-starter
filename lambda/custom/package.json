@@ -1,0 +1,20 @@
+{
+  "name": "Alexa Audio Stream Starter Skill Template",
+  "version": "1.0.0",
+  "description": "A starter template for creating Alexa audio streaming skills.",
+  "main": "index.js",
+  "keywords": [
+    "alexa",
+    "skill",
+    "audio streaming"
+  ],
+  "author": "EchoSkillTemplates",
+  "license": "See license in ../LICENSE.txt",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EchoSkillTemplates/Alexa-audio-stream-starter.git"
+  }
+}
